@@ -10,3 +10,8 @@ Er bestaan al redelijk wat apps waarin je kan bijhouden welke series je volgt en
 ## Data
 
 De API die ik ga gebruiken voor het ophalen van de series is https://www.tvmaze.com/api. En ik ga FireBase gebruiken om gebruikers te laten inloggen en om te bekijken welke series je vrienden kijken. 
+
+## Schets
+
+![Sketch](https://i.imgur.com/7gBNYu2.png)
+![Sketch](https://i.imgur.com/cC3OIDi.png)
