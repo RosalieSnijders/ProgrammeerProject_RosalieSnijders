@@ -1,4 +1,4 @@
-# ProgrammeerProject
+# ProgrammeerProject - Rosalie Snijders
 
 ## Probleem
 De laatste aantal jaren wordt het steeds makkelijker om online televisie series te kijken of terug te kijken. Veel vrienden kijken dan ook vaak dezelfde series maar dat niet van elkaar weten, hierdoor kijken ze vaak die series alleen. 
