@@ -7,8 +7,6 @@ De oplossing voor dit probleem wordt een app waarin je aan kan geven welke serie
 
 Er bestaan al redelijk wat apps waarin je kan bijhouden welke series je volgt en wanneer je de volgende afleveringen van die serie uitkomen, zoals bijvoorbeeld de apps Serist en TV Time. Ik kan deze apps gebruiken om de layout en sommige functionaliteiten van mijn app te inspireren.  Zover ik weet kan je echter bij die apps nog niet zien wat je vrienden kijken en ze uitnodigingen sturen. Dit wordt dan ook de grootste uitdaging van mijn app. Hiervoor ga ik waarschijnlijk MessageUI gebruiken om uitnodigingen te versturen. Dit is een framework die de gebruiker smsjes en email laat versturen zonder de app te verlaten. Hierbij kan je van tevoren aangeven wie de ontvanger is en wat er in het bericht staat. De gebruiker zou dan alleen op verzenden moeten drukken. Daarnaast ga ik Firebase gebruiken om de gebruikers te laten inloggen en informatie van andere gebruikers te laten zien.
 
-## Lijstjes
-
 Databronnen:
 - tvmaze API: https://www.tvmaze.com/api
 
@@ -23,6 +21,16 @@ Overeenkomende apps:
 - TVShow Time
 - SeriesGuide
 
+## Features
+
+- Account maken/inloggen
+- Informatie over televisie series vinden
+- Zien wanneer de volgende aflevering van een serie wordt uitgezonden
+- Bijhouden welke series de gebruiker volgt
+- Andere gebruikers van de app vinden
+- Andere gebruikers toevoegen als vriend
+- Informatie over andere gebruikers kunnen zien
+- Uitnodigingen sturen naar vrienden om samen een serie te kijken
 
 ## Schets
 
