@@ -42,5 +42,4 @@ Een optionele functie van de app wordt dat als de gebruiker een uitnodiging stuu
 
 ## Schets
 
-![Sketch](https://i.imgur.com/7gBNYu2.png)
-![Sketch](https://i.imgur.com/cC3OIDi.png)
+![Schets](https://i.imgur.com/s0mLxN1.png)
