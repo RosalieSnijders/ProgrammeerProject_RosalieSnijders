@@ -11,7 +11,8 @@ Databronnen:
 - tvmaze API: https://www.tvmaze.com/api
 
 Externe componenten:
-- Firebase
+- Firebase Database
+- Firebase Auth
 - MessageUI
 
 Overeenkomende apps:
@@ -31,6 +32,13 @@ Overeenkomende apps:
 - Andere gebruikers toevoegen als vriend
 - Informatie over andere gebruikers kunnen zien
 - Uitnodigingen sturen naar vrienden om samen een serie te kijken
+
+## Minimum Viable Product/Optional
+
+De gebruiker moet in het eindproduct op zijn minst Series kunnen toevoegen aan een watchlist en kunnen zien wanneer de volgende aflevering van die serie uitkomt. Daarnaast moet de gebruiker ook informatie over de serie kunnen bekijken. De gebruiker moet ook vrienden kunnen toevoegen en die vrienden een uitnodiging kunnen sturen om samen een serie te kijken. Al deze informatie moet opgeslagen worden in een database. Het zou fijn zijn als er een uitnodiging wordt verstuurd er dan al een  gegenereerd bericht staat, zodat de gebruiker zelf niet een bericht hoeft te typen en alleen op verzenden hoeft te drukken. 
+
+Een optionele functie van de app wordt dat als de gebruiker een uitnodiging stuurt dat er meteen een datumprikker agenda wordt meegestuurd, zodat ze meteen een datum kunnen prikken om samen de serie te kijken.
+
 
 ## Schets
 
